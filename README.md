@@ -7,7 +7,7 @@ This is a module for face detection with convolutional neural networks (CNNs). I
     1. TensorFlow
     2. OpenCV for Python
 
-**Network topology**
+________**Network topology**
 
 The network consists of 3 convolution layers
 
