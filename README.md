@@ -44,7 +44,7 @@ The validation accuracy was 98.762% and the final accuracy on the test set was 9
 **Dataset**
 
 Positive samples (images of faces) for the classification were taken from 2 sources:
-
+CAMBIO.... :)
     1. Cropped labelled faces in the wild (http://conradsanderson.id.au/lfwcrop/)
     2. MIT CBCL face recognition database (http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html)
 
